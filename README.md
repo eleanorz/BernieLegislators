@@ -7,7 +7,7 @@ Possibly, if we can get funding, we could dial in and target the demographics of
 
 Here are a list of initial candidates we can build profiles for:
 
-Nina Turner, Elizabeth Warren, Deray ??? [Baltimore Mayoral Candidate, technically].... also maybe we could just [grab a feed from this wiki page](https://en.wikipedia.org/wiki/List_of_Bernie_Sanders_presidential_campaign_endorsements,_2016)
+Nina Turner, Elizabeth Warren, Deray ??? [Baltimore Mayoral Candidate, technically].... also maybe we could just [grab a feed from this wiki page of his endorsements](https://en.wikipedia.org/wiki/List_of_Bernie_Sanders_presidential_campaign_endorsements,_2016)
 
 ## Help Needed
 
